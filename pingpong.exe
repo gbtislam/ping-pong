@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="ar">
-<head><title>Ping Pong.exe - لعبة بينغ بونغ ممتعة</title>
+<head><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9MX1VYDW4V"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9MX1VYDW4V');
+</script>
+<title>Ping Pong.exe - لعبة بينغ بونغ ممتعة</title>
 <meta name="description" content="العب لعبة Ping Pong.exe مباشرة في المتصفح، مع لاعب واحد أو اثنين، أصوات وموسيقى ممتعة.">
 <meta name="keywords" content="ping pong, pingpong.exe, لعبة بينغ بونغ, كرة, multiplayer ping pong">
 <meta name="author" content="GBT">
