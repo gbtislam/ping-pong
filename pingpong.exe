@@ -302,7 +302,7 @@ function draw(){
   // كتابة "by gbt" أسفل اليسار
   ctx.fillStyle="lime";
   ctx.font="20px monospace";
-  ctx.fillText("by gbt", 10, canvas.height - 10);
+  ctx.fillText("By Islam Gbt", 10, canvas.height - 10);
 }
 
 function loop(){
