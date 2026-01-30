@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="ar">
-<head>
+<head><title>Ping Pong.exe - لعبة بينغ بونغ ممتعة</title>
+<meta name="description" content="العب لعبة Ping Pong.exe مباشرة في المتصفح، مع لاعب واحد أو اثنين، أصوات وموسيقى ممتعة.">
+<meta name="keywords" content="ping pong, pingpong.exe, لعبة بينغ بونغ, كرة, multiplayer ping pong">
+<meta name="author" content="GBT">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Ping Pong.exe</title>
